@@ -1,6 +1,4 @@
-# run_translation.py
-# This single file handles everything: preprocessing, training, and translation.
-# FINAL FIX: Corrected a variable scope bug in the translation CLI.
+
 
 import torch
 import torch.nn as nn
